@@ -1,0 +1,11 @@
+.barreverte {
+    color: white;
+    border-color: #0ad728;
+    background-color: #0ad728;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    height: auto;
+}
